@@ -22,4 +22,10 @@
         android:name="com.tannm.tan_demo.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_introduce"
+        android:name="com.tannm.tan_demo.ui.introduce.IntroduceFragment"
+        android:label="@string/menu_introduce"
+        tools:layout="@layout/fragment_slideshow" />
 </navigation>
